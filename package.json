@@ -1,0 +1,10 @@
+{
+  "name": "mastering-nuxt-course-project",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build"
+  }
+}
